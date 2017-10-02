@@ -1,0 +1,1 @@
+readline();print(readline().split(' ').reduce((x,y)=>y*y-y<x*x?y:x)||0)
